@@ -8,7 +8,7 @@ const Header = () => {
     <Nav>
         <Logo src="/images/logo.svg"/>
 
-        {/* //navmenu */}
+        {/* navmenu */}
         <NavMenu>
             <a>
                 <img src="/images/home-icon.svg" alt='icon img' /> 
