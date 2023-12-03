@@ -133,6 +133,7 @@ const AddButton = styled.button `
 
 const GroupWatchButton = styled(AddButton) `
     background: rgb(0, 0, 0);
+    cursor: pointer;
 `
 
 const Subtitle = styled.div`
@@ -147,4 +148,5 @@ const Description = styled.div`
     font-size: 20px;
     margin-top: 16px;
     color: rgba(249,249,249);
+    max-width: 7600px;
 `;
