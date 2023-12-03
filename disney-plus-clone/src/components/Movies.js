@@ -15,7 +15,7 @@ const Movies = () => {
             </Wrap>
 
             <Wrap>
-                <img src='/images/zootopia1.png' alt='' />
+                <img src='/images/zootopia.png' alt='' />
             </Wrap>
 
             <Wrap>
@@ -35,7 +35,7 @@ const Movies = () => {
             </Wrap>
 
             <Wrap>
-                <img src='/images/insideout.png' alt='' />
+                <img src='/images/bao.png' alt='' />
             </Wrap>
       </Content>
     </Container>
